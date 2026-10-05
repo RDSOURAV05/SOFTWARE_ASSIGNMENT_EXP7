@@ -1,1 +1,1 @@
-# LMS Collab – Library Management System (Team 1)
+# SOFTWARE_ASSIGNMENT_2
