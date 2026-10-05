@@ -1,4 +1,5 @@
 # book_search.py (Student A - Issue #1)
+# Sample data containing a list of books available in the library
 BOOKS = [
  {"title": "Software Engineering", "author": "Ian Sommerville"},
  {"title": "Software Engineering: A Practitioner's Approach", "author": "Roger Pressman"},
