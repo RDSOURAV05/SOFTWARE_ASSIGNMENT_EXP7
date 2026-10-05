@@ -1,1 +1,1 @@
-# Library Management System – S7 CSE Lab Project
+# LMS Collab – Library Management System (Team 1)
