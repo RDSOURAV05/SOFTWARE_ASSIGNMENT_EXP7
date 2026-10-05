@@ -1,1 +1,1 @@
-# SOFTWARE_ASSIGNMENT_2
+# Library Management System – S7 CSE Lab Project
